@@ -3,6 +3,8 @@ class Dog
   end
  
   def name
-    @name
+    puts @name
   end
+  
+  def name=
 end
