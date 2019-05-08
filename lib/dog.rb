@@ -3,7 +3,7 @@ class Dog
   end
   
   def name=(dog_name)
-    @name = the_dog_name
+    @name = dog_name
   end
   
   def name
